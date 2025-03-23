@@ -1,27 +1,27 @@
 {
-    "id": "DD59DC44",
+    "id": "4F1355BD",
     "path": "C:/Users/EmilB/OneDrive/Escritorio/SIG/Proyecto-Cambio-Climatico-SIG/SIG_Trabajo-Final-Script.R",
     "project_path": "SIG_Trabajo-Final-Script.R",
     "type": "r_source",
     "hash": "0",
     "contents": "",
-    "dirty": true,
-    "created": 1742765011415.0,
+    "dirty": false,
+    "created": 1742766787270.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "25,0",
-        "scrollLine": "15"
+        "cursorPosition": "28,24",
+        "scrollLine": "20"
     },
     "folds": "",
-    "lastKnownWriteTime": 1742764993,
+    "lastKnownWriteTime": 1742766732,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1742765641967,
+    "last_content_update": 1742766732,
     "read_only": false,
     "read_only_alternatives": []
 }
