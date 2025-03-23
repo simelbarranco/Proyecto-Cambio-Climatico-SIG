@@ -4,6 +4,8 @@
 
 Este proyecto tiene como objetivo analizar datos climáticos históricos de la República Dominicana para identificar patrones de cambio y proponer planes de mitigación. Utiliza R y RStudio para la manipulación, análisis y visualización de los datos, centrándose en variables clave como la temperatura y la precipitación.
 
+![Dashboard](./results/temp-evolution-2000-2023.png)
+
 ## Estructura del Proyecto
 
 `SIG_Trabajo-Final-Script.R`: Script principal que realiza la limpieza, análisis y visualización de los datos.
